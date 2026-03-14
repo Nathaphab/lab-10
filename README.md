@@ -51,7 +51,7 @@ https://fakestoreapi.com
 ---
 
 # 2. หน้า Product List
-
+<img width="440" height="1018" alt="Image" src="https://github.com/user-attachments/assets/316038d6-436d-422a-9404-0762b6e05083" />
 หน้าสำหรับแสดงรายการสินค้า โดยดึงข้อมูลจาก API
 
 ข้อมูลที่แสดง
