@@ -31,7 +31,7 @@ https://fakestoreapi.com
 ---
 
 # 1. หน้า Login
-
+<img width="443" height="1011" alt="Image" src="https://github.com/user-attachments/assets/30ad1c52-04f2-434c-986b-42d644dc56dd" />
 หน้าสำหรับเข้าสู่ระบบ โดยตรวจสอบ **username และ password จาก API**
 
 การทำงาน
