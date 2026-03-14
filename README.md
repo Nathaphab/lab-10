@@ -45,7 +45,7 @@ https://fakestoreapi.com
 - หาก login ด้วย **johnd** จะเข้าสู่หน้า **User Management**
 - หาก login ด้วย user อื่น จะเข้าสู่หน้า **Product List**
 
-<img width="477" height="978" alt="image" src="https://github.com/user-attachments/assets/8fec65ff-19b9-47eb-babb-716b55bb3dfa" />
+
 
 
 ---
@@ -67,7 +67,7 @@ https://fakestoreapi.com
 - ไปหน้าตะกร้าสินค้า
 - Logout
 
-<img width="477" height="978" alt="image" src="https://github.com/user-attachments/assets/11f56e2d-afc8-4ef0-954a-b2e4e6ad2bf8" />
+
 
 
 ---
@@ -87,7 +87,7 @@ https://fakestoreapi.com
 
 - เพิ่มสินค้าลงตะกร้า
 
-<img width="477" height="978" alt="image" src="https://github.com/user-attachments/assets/e58b0801-f01a-4893-ad39-d3be0b9a9b2f" />
+
 
 
 ---
@@ -103,7 +103,7 @@ https://fakestoreapi.com
 - ลบสินค้า
 - แสดงราคารวมของสินค้า
 - 
-<img width="477" height="978" alt="image" src="https://github.com/user-attachments/assets/00afe026-c8ef-4985-88a1-2b336eaf8463" />
+
 
 
 ---
@@ -118,7 +118,7 @@ https://fakestoreapi.com
 - แก้ไขข้อมูลผู้ใช้
 - ลบผู้ใช้
 
-<img width="477" height="978" alt="image" src="https://github.com/user-attachments/assets/e2241261-e2e6-4fe4-abb9-61c4f57ff5f4" />
+
 
 
 ---
