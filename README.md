@@ -113,7 +113,7 @@ https://fakestoreapi.com
 # 5. หน้า User Management (Admin เท่านั้น)
 
 หน้านี้สามารถเข้าได้เฉพาะ **Admin (johnd)
-<img width="439" height="1019" alt="Image" src="https://github.com/user-attachments/assets/32c35adb-6dd0-4fe5-8244-6a45000af2f0" />
+
 
 สามารถจัดการข้อมูลผู้ใช้ได้ เช่น
 
