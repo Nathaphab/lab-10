@@ -73,7 +73,7 @@ https://fakestoreapi.com
 ---
 
 # 3. หน้า Product Detail
-
+<img width="443" height="1018" alt="Image" src="https://github.com/user-attachments/assets/44e41091-8151-44dc-967a-f7a1b7f073e5" />
 หน้าสำหรับแสดงรายละเอียดของสินค้า
 
 ข้อมูลที่แสดง
