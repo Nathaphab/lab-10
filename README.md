@@ -32,6 +32,7 @@ https://fakestoreapi.com
 
 # 1. หน้า Login
 <img width="443" height="1011" alt="Image" src="https://github.com/user-attachments/assets/30ad1c52-04f2-434c-986b-42d644dc56dd" />
+
 หน้าสำหรับเข้าสู่ระบบ โดยตรวจสอบ **username และ password จาก API**
 
 การทำงาน
@@ -52,6 +53,7 @@ https://fakestoreapi.com
 
 # 2. หน้า Product List
 <img width="440" height="1018" alt="Image" src="https://github.com/user-attachments/assets/316038d6-436d-422a-9404-0762b6e05083" />
+
 หน้าสำหรับแสดงรายการสินค้า โดยดึงข้อมูลจาก API
 
 ข้อมูลที่แสดง
@@ -74,6 +76,7 @@ https://fakestoreapi.com
 
 # 3. หน้า Product Detail
 <img width="443" height="1018" alt="Image" src="https://github.com/user-attachments/assets/44e41091-8151-44dc-967a-f7a1b7f073e5" />
+
 หน้าสำหรับแสดงรายละเอียดของสินค้า
 
 ข้อมูลที่แสดง
@@ -94,6 +97,7 @@ https://fakestoreapi.com
 
 # 4. ระบบตะกร้าสินค้า (Cart)
 <img width="442" height="1013" alt="Image" src="https://github.com/user-attachments/assets/b3eea4d0-b668-4f33-897f-20a0b2314ba2" />
+
 หน้าตะกร้าสินค้าใช้สำหรับจัดการสินค้าที่ผู้ใช้เลือก
 
 สามารถ
