@@ -93,7 +93,7 @@ https://fakestoreapi.com
 ---
 
 # 4. ระบบตะกร้าสินค้า (Cart)
-
+<img width="442" height="1013" alt="Image" src="https://github.com/user-attachments/assets/b3eea4d0-b668-4f33-897f-20a0b2314ba2" />
 หน้าตะกร้าสินค้าใช้สำหรับจัดการสินค้าที่ผู้ใช้เลือก
 
 สามารถ
